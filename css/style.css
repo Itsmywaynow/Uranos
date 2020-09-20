@@ -80,7 +80,7 @@ body {
 
 .header {
   border-top: 8px solid #ffd800;
-  background: url("/img/bg/bg.jpg");
+  background: url("../img/bg/bg.jpg");
   background-size: cover;
 }
 
@@ -379,7 +379,7 @@ body {
 }
 
 .app-info {
-  background: url("/img/bg/bg.jpg");
+  background: url("../img/bg/bg.jpg");
   background-size: cover;
   color: #fff;
   text-align: center;
